@@ -1,6 +1,6 @@
-﻿namespace Assignment.DM;
+﻿namespace Assignment.DM.Models;
 
-public class Product
+public class Producgt
 {
     
 }
