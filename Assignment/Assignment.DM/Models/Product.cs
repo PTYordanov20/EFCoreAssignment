@@ -1,5 +1,6 @@
 ﻿namespace Assignment.DM;
 
-public class Customer
+public class Product
 {
+    
 }

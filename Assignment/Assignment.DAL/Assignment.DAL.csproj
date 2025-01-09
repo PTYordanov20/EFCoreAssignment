@@ -6,4 +6,10 @@
         <Nullable>enable</Nullable>
     </PropertyGroup>
 
+    <ItemGroup>
+      <ProjectReference Include="..\Assignment.DM\Assignment.DM.csproj" />
+      <ProjectReference Include="..\Assignment.Infrastructure\Assignment.Infrastructure.csproj" />
+      <ProjectReference Include="..\Assignment\Assignment.csproj" />
+    </ItemGroup>
+
 </Project>
